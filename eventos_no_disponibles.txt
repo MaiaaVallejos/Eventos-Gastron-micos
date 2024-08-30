@@ -1,0 +1,11 @@
+ID: 1
+Nombre: Clase de Pastelería
+Descripción: Aprende técnicas avanzadas de pastelería
+Fecha y Hora: 2024-09-15T10:00
+Ubicación: Madrid
+Capacidad Máxima: 2
+Participantes Inscritos: 2
+Chef a Cargo: Gordon Ramsay
+
+---
+
